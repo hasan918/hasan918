@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @hasan918
 - 👀 I’m interested in web developer
 - 🌱 I’m currently learning Spring Boot
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me (https://www.linkedin.com/in/hasan-farhat)
 
 <!---
